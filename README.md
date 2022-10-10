@@ -12,4 +12,4 @@ As tecnologias utilizadas neste projeto são:
 - CSS
 
 ## Créditos ❤️
-Feito por Millene Eduarda Ishiyama.
+Feito por [Millene Eduarda Ishiyama](https://github.com/miishiyama/).
