@@ -90,7 +90,7 @@ body {
 
 footer {
   background-color: var(--footer-color);
-  width: 1519px;
+  width: 1610px;
   height: 563.12px;
   position: absolute;
   margin-top: 4567px;
@@ -182,6 +182,7 @@ img {
   left: 1057px;
   top: 58.62px;
   color: var(--primary-color);
+  width: 53px;
 }
 
 .button-sign-up {
@@ -196,6 +197,7 @@ img {
   border: 1px solid var(--red-color);
   border-radius: 50px;
   padding: 13px 45px;
+  width: 152px;
 }
 
 #home .column-a {
@@ -870,6 +872,7 @@ footer .column-earn-money {
   margin-top: 182.89px;
   margin-bottom: 20px;
   background-color: var(--footer-color);
+  width: 102px;
 }
 
 footer .column-product h5,
