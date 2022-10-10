@@ -3,7 +3,7 @@
 ![preview](./github/LaslesVPN.png)
 
 ## Projeto 💻
-Este projeto foi desenvolvido a partir de uma Landing Page no Figma encontrado na internet.
+Este projeto foi desenvolvido a partir de uma Landing Page no Figma.
 (https://www.figma.com/community/file/858999227165747995)
 
 ## Tecnologias 🚀
