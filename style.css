@@ -202,7 +202,6 @@ img {
 
 #home .column-a {
   width: max(555px);
-  display: grid;
   position: absolute;
   top: 206.77px;
   left: 150px;
@@ -229,16 +228,16 @@ img {
 
 #home .column-b img {
   position: absolute;
-  max-width: 611.24px;
-  max-height: 382.44px;
+  width: 611.24px;
+  height: 382.44px;
   left: 745.76px;
   top: 179.11px;
 }
 
 #home .background-shadow-column-c svg {
   position: absolute;
-  max-width: 1068.84px;
-  max-height: 189.22px;
+  width: 1068.84px;
+  height: 189.22px;
   left: 185.58px;
   top: 717.35px;
 }
