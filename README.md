@@ -1,6 +1,6 @@
 # LaslesVPN
 
-![preview](./github/LaslesVPN.png)
+![preview](./preview/LaslesVPN.png)
 
 ## Projeto 💻
 Este projeto foi desenvolvido a partir de uma Landing Page no Figma. <br>
