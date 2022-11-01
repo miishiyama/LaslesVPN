@@ -3,7 +3,7 @@
 
 ## Projeto 💻
 Este projeto foi desenvolvido a partir de uma Landing Page no Figma. <br>
-(https://www.figma.com/community/file/858999227165747995)
+(https://www.figma.com/file/AjPHuS39hTeGASXqsFE8fK/FREEBIES-Landingpage-LaslesVPN-(Community))
 
 ## Tecnologias 🚀
 As tecnologias utilizadas neste projeto são:
